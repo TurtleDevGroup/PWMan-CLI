@@ -16,7 +16,9 @@ Run `python3 main.py`
 Install script coming soon. For now, use [WSL](https://docs.microsoft.com/en-us/windows/wsl/about) and follow the [Linux](https://github.com/dpark12300/PWMan-CLI/blob/main/README.md#linux) instructions.
 
 ### Mac
-For now, please use the [Linux](https://github.com/dpark12300/PWMan-CLI/blob/main/README.md#linux) build. Sorry.
+For now, please use the [Linux](https://github.com/dpark12300/PWMan-CLI/blob/main/README.md#linux) build. Mac-specific instructions coming soon™️.
 
-### Licensing
-Please read the [License](LICENSE) for more info.
+## Licensing
+This program is licensed under the GNU General Public License version 3 (GPLv3). This program is open source and all forks of this program must also be open source with credits to the original project. Please read the [License](LICENSE) for more info.
+
+## Credits

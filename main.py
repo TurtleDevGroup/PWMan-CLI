@@ -1,10 +1,10 @@
-#Credit goes to @Discoverypark And @Schniz for codin'
+# Credits: @dpark12300 and @Schniz for initial development, @dpark12300 and @Turphin for current development
 import json, os, sys, pprint, replit
 from pathlib import Path
 args = sys.argv
 default_file = "pw.json"
 commands = '''
-Commandz
+Commands
 --------
 
 add NAME: Add an entry to the database.
